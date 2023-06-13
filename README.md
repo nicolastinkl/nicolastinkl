@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 <p align="center">
 	<a href="https://profile.codersrank.io/user/macmade#Tech%20Skills">
-		<img width="800em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=macmade&padding=10&labels=true&legend=true&tooltip=true&branding=false&show-other-skills=true&bg=000000" />
+		<img width="800em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=macmade&padding=10&labels=true&legend=true&tooltip=true&branding=false&show-other-skills=true&bg=0f1217" />
 	</a>
 </p>
