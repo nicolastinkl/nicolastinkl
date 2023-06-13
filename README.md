@@ -27,5 +27,4 @@ Here are some ideas to get you started:
 <p align="center">
 	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolastinkl&include_all_commits=true&hide_border=false&theme=dracula" />
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nicolastinkl&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+  
