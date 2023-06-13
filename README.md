@@ -41,25 +41,25 @@ Here are some ideas to get you started:
 <p align="center">
 	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolastinkl&include_all_commits=true&hide_border=false&theme=dracula" />
 </p>
- 
-<details open> 
+ <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/nicolastinkl/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/nicolastinkl/NMovice"><img width="278" src="https://nicolastinkl-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=NMovice&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="NMovice"></a>
-    <a href="https://github.com/nicolastinkl/readme-typing-svg"><img width="278" src="https://nicolastinkl-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/nicolastinkl/custom-icon-badges"><img width="278" src="https://nicolastinkl-github-readme-stats.vercel.app/api/pin?username=nicolastinkl&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/nicolastinkl/unicode-formatter"><img width="278" src="https://nicolastinkl-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
-    <a href="https://github.com/nicolastinkl/unedit-for-reddit"><img width="278" src="https://nicolastinkl-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=unedit-for-reddit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
-    <a href="https://github.com/nicolastinkl/github-readme-youtube-cards"><img width="278" src="https://nicolastinkl-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
-    <a href="https://github.com/nicolastinkl/latex-gboard-dictionary"><img width="278" src="https://nicolastinkl-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=latex-gboard-dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="latex-gboard-dictionary"></a>
-    <a href="https://github.com/nicolastinkl/minimalistic-wallpaper-collection"><img width="278" src="https://nicolastinkl-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=minimalistic-wallpaper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="minimalistic-wallpaper-collection"></a>
-    <a href="https://github.com/nicolastinkl/table2ascii"><img width="278" src="https://nicolastinkl-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
+    <a href="https://github.com/nicolastinkl/NMovice"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=NMovice&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="NMovice"></a>
+    <a href="https://github.com/nicolastinkl/MaiMai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=MaiMai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MaiMai"></a>
+    <a href="https://github.com/nicolastinkl/SlotFruit-Unity3D"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nicolastinkl&repo=SlotFruit-Unity3D&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SlotFruit-Unity3D"></a>
+    <a href="https://github.com/nicolastinkl/frida_ios_android_script"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=frida_ios_android_script&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="frida_ios_android_script"></a>
+  
   </p>
 
-  <a href="https://github.com/nicolastinkl?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
-
   
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=nicolastinkl&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <h3>⚡ Recent GitHub Activity</h3>
