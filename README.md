@@ -14,11 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center" style="color:#f65273">
-  <a href="https://github.com/nicolastinkl" >	  Zeus
-    </a>
-
- 
+<p align="center">
+  <a href="https://github.com/nicolastinkl" style="color: #f65273;font-size: 30px;">Zeus</a>
 </p>
 
 <p align="center">
