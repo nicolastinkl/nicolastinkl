@@ -35,10 +35,7 @@ Here are some ideas to get you started:
 # 💀🦄🤖 Blood, Sweat & Code (& Rock 'n Roll)
 
 ![Macmade](nyan-cat.gif "Macmade")
-
-<p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=nicolastinkl&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=dracula" />
-</p>
+ 
 
 <p align="center">
 	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolastinkl&include_all_commits=true&hide_border=false&theme=dracula" />
