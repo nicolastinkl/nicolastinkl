@@ -37,9 +37,6 @@ Here are some ideas to get you started:
 ![Macmade](nyan-cat.gif "Macmade")
  
 
-<p align="center">
-	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolastinkl&include_all_commits=true&hide_border=false&theme=dracula" />
-</p>
  <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
