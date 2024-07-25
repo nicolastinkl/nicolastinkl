@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/nicolastinkl/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/nicolastinkl/NMovice"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=NMovice&theme=vue" alt="NMovice"></a>
+    <a href="https://github.com/nicolastinkl/NVPlayer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=NVPlayer&theme=vue" alt="NVPlayer"></a>
     <a href="https://github.com/nicolastinkl/UUVPN"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=UUVPN&theme=vue" alt="UUVPN"></a>
     <a href="https://github.com/nicolastinkl/crach-haosexiansheng"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nicolastinkl&repo=crach-haosexiansheng&theme=vue" alt="SlotFruit-Unity3D"></a>
     <a href="https://github.com/nicolastinkl/frida_ios_android_script"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=frida_ios_android_script&theme=vue" alt="frida_ios_android_script"></a>
