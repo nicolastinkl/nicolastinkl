@@ -31,9 +31,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-
-# 💀🦄🤖 Blood, Sweat & Code (& Rock 'n Roll)
-
 ![Macmade](nyan-cat.gif "Macmade")
  
 
