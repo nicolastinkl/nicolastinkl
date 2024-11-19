@@ -40,12 +40,12 @@ Here are some ideas to get you started:
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/nicolastinkl/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/nicolastinkl/NVPlayer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=NVPlayer&theme=vue" alt="NVPlayer"></a>
-    <a href="https://github.com/nicolastinkl/UUVPN"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=UUVPN&theme=vue" alt="UUVPN"></a>
-    <a href="https://github.com/nicolastinkl/Haose-Learning-Cracking-RSA"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nicolastinkl&repo=Haose-Learning-Cracking-RSA&theme=vue" alt="Haose-Learning-Cracking-RSA"></a>
-    <a href="https://github.com/nicolastinkl/frida_ios_android_script"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=frida_ios_android_script&theme=vue" alt="frida_ios_android_script"></a>
-    <a href="https://github.com/nicolastinkl/ADK"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=ADK&theme=vue" alt="ADK"></a>
-    <a href="https://github.com/nicolastinkl/apk_to_aab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=apk_to_aab&theme=vue" alt="apk_to_aab"></a>
+    <a href="https://github.com/nicolastinkl/UUVPN"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=UUVPN&theme=dark" alt="UUVPN"></a>
+   <a href="https://github.com/nicolastinkl/NVPlayer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=NVPlayer&theme=dark" alt="NVPlayer"></a>
+    <a href="https://github.com/nicolastinkl/Haose-Learning-Cracking-RSA"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nicolastinkl&repo=Haose-Learning-Cracking-RSA&theme=dark" alt="Cracking-RSA"></a>
+    <a href="https://github.com/nicolastinkl/frida_ios_android_script"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=frida_ios_android_script&theme=dark" alt="frida_ios_android_script"></a>
+    <a href="https://github.com/nicolastinkl/ADK"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=ADK&theme=dark" alt="ADK"></a>
+    <a href="https://github.com/nicolastinkl/apk_to_aab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nicolastinkl&repo=apk_to_aab&theme=dark" alt="apk_to_aab"></a>
   
   </p>
 
