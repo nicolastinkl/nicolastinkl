@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/dcgzeus"><img width="32px" alt="Twitter" title="Twitter" src="https://raw.githubusercontent.com/nicolastinkl/nicolastinkl/main/twitter.png"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/dcgzeus"><img width="32px" alt="Twitter" title="Twitter" src="https://raw.githubusercontent.com/nicolastinkl/nicolastinkl/main/telegram.png"/></a>
+  <a href="https://t.me/sztcreator"><img width="32px" alt="Twitter" title="Twitter" src="https://raw.githubusercontent.com/nicolastinkl/nicolastinkl/main/telegram.png"/></a>
 </p>
 
 <br/>
