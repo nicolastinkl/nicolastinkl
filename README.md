@@ -28,10 +28,6 @@ Here are some ideas to get you started:
 	&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/dcgzeus"><img width="32px" alt="Twitter" title="Twitter" src="https://raw.githubusercontent.com/nicolastinkl/nicolastinkl/main/telegram.png"/></a>
 </p>
-
-<br/>
-
-![Macmade](nyan-cat.gif "Macmade")
  
 
  <details open> 
